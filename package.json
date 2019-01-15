@@ -1,0 +1,37 @@
+{
+  "name": "tallerhandle",
+  "version": "1.0.0",
+  "engines": {
+    "node": "8.11.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "washington apolinario",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "knex": "^0.16.3",
+    "ng": "0.0.0",
+    "nodemon": "^1.18.9",
+    "pg": "^7.7.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WashingtonApolinario/apolinarioNodePg.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "bugs": {
+    "url": "https://github.com/WashingtonApolinario/apolinarioNodePg/issues"
+  },
+  "homepage": "https://github.com/WashingtonApolinario/apolinarioNodePg#readme",
+  "description": ""
+}
